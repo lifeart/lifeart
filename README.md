@@ -9,6 +9,4 @@
 - 📫 How to reach me: <a href="mailto:lifeart92@gmail.com">lifeart92@gmail.com</a>
 - :moneybag: Let me know If I can help you.
 
-### Cozy stats
-
 <img src="https://github-readme-stats.vercel.app/api?username=lifeart&&show_icons=true" alt="" role="presentation" />
