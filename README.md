@@ -7,5 +7,6 @@
 - 🌱 I like: AST, TypeScript, DOM API, Quadrocopters and FPV
 - 📫 How to reach me: <a href="mailto:lifeart92@gmail.com">lifeart92@gmail.com</a>
 - :moneybag: I'm available for consulting
+- Here is my [talks](./talks.md) [Ru]
 
 <img src="https://github-readme-stats.vercel.app/api?username=lifeart&&show_icons=true" alt="" role="presentation" />
