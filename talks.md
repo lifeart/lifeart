@@ -8,3 +8,4 @@
 1. [How to measure Code Coverage using Playwright](https://www.youtube.com/watch?v=mOS8U5Kz8BQ)
 1. [GlimmerX — declarative UI & derived reactivity in 27kb p1](https://www.youtube.com/watch?v=C-gBuD534lY)
 1. [GlimmerX — declarative UI & derived reactivity in 27kb p2](https://www.youtube.com/watch?v=hAJJ9Y3UGvk)
+2. [TypeScript in legacy projects using JSDOC](https://www.youtube.com/watch?v=OLNA-n84MCI)
