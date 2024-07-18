@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🧘 I'm working at [EPAM Systems](https://epam.com/), ex: ~~[Abacum](https://www.abacum.io/)~~ using [Deel](https://deel.com/referrals/Aleksandr-9Rl3aXx5),
-- :earth_asia: Located in ~~GMT+3 [St.Petersburg](https://youtu.be/SUff9wXxlfE?t=11) (Russia)~~, GMT+4 Yerevan (Armenia)
+- :earth_asia: Located in ~~GMT+3 [St.Petersburg](https://youtu.be/SUff9wXxlfE?t=11) (Russia)~~, GMT+4 Yerevan (Armenia), GMT+4 (Georgia)
 - 🔭 My OSS work related to DX, Ember ecosystem, Web API's
 - :mega: Speaker and invited expert at [HolyJS conf](https://holyjs.ru/en/)
 - 🌱 I like: AST, TypeScript, DOM API, Quadrocopters and FPV
